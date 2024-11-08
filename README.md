@@ -30,4 +30,4 @@ This repository contains the source code of RLDroid, the evaluation detail and t
 
 #### Usage
 - Open the "SeedUTGConstruction" directory with Intellij IDEA and run the main method to build the seed UTG.
-- Run the dynamic exploration using python3 utgrunner.py
+- Run the dynamic exploration using `python3 utgrunner.py` to build the final UTG.
