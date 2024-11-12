@@ -29,5 +29,6 @@ This repository contains the source code of RLDroid, the evaluation detail and t
 - Android emulator 7.1
 
 #### Usage
-- Open the "SeedUTGConstruction" directory with Intellij IDEA and run the main method to build the seed UTG.
+- Start the emulator and the app to be tested.
+- Open the "SeedUTGConstruction" directory with Intellij IDEA and run the main method to build the seed UTG. You can also use maven to build this module: `mvn compile`.
 - Run the dynamic exploration using `python3 utgrunner.py` to build the final UTG.
